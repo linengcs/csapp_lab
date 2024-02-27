@@ -16,9 +16,9 @@ Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd
 ### Lab5-Cache Lab
 + 已完成
 + [Note: cachelab.md](./Lab5-cache/cachelab.md)
-### Lab6-Shell Lab
+### Lab7-Shell Lab
 + 已完成
-+ [Note: shelllab.md](./Lab6-shell/shelllab.md)
-### Lab7-Proxy Lab
++ [Note: shelllab.md](./Lab7-shell/shelllab.md)
+### Lab8-Proxy Lab
 + 待完成
 
