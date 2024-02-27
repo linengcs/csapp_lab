@@ -7,14 +7,18 @@ Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd
 + 已完成
 ### Lab2-Bomb Lab
 + 已完成
++ [Note: bomblab.md](./Lab2-bomb/bomblab.md)
 ### Lab3-Attack Lab
 + 已完成
++ [Note: attacklab.md](./Lab3-attack/attacklab.md)
 ### Lab4-Architecture Lab
 + 待完成
 ### Lab5-Cache Lab
 + 已完成
++ [Note: cachelab.md](./Lab5-cache/cachelab.md)
 ### Lab6-Shell Lab
 + 已完成
++ [Note: shelllab.md](./Lab6-shell/shelllab.md)
 ### Lab7-Proxy Lab
 + 待完成
 
